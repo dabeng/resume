@@ -12,8 +12,15 @@
 邮箱 – xinguan413@163.com
 
 ## 知识结构
-ES6  & ES7    jQuery     HTML5     AngularJS    Meteor
-Backbone.js     CSS3     Bootstrap     Node.js      MongoDB     SVG   Gulp  Webpack   React   QUnit    handlebars   socket.io    Vue.js  ionic   cordova Mocha   Chai     Sinon.js     TestCafe    BackStopJS
+ES6  & ES7    jQuery     HTML5     CSS3   Bootstrap   handlebars
+
+Backbone.js Grunt AngularJS  ionic   cordova  Meteor  React   Gulp   Webpack    Vue.js
+
+Node.js  Koa    MongoDB   socket.io  
+
+SVG    HightCharts    D3.js     C3.js       
+
+QUnit   Mocha   Chai     Sinon.js     TestCafe    BackStopJS  
 
 ## 项目经验
 ### WebGIS development based on OpenLayers

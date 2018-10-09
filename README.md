@@ -12,7 +12,7 @@
 邮箱 – xinguan413@163.com
 
 ## 知识结构
-ES6  & ES7      jQuery     HTML5     AngularJS    Meteor
+ES6  & ES7    jQuery     HTML5     AngularJS    Meteor
 Backbone.js     CSS3     Bootstrap     Node.js      MongoDB     SVG   Gulp  Webpack   React   QUnit    handlebars   socket.io    Vue.js  ionic   cordova Mocha   Chai     Sinon.js     TestCafe    BackStopJS
 
 ## 项目经验

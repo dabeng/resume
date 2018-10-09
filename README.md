@@ -12,15 +12,15 @@
 邮箱 – xinguan413@163.com
 
 ## 知识结构
-ES6  & ES7    jQuery     HTML5     CSS3   Bootstrap   handlebars
+基础工具方面：ES6  & ES7    jQuery     HTML5     CSS3   Bootstrap   handlebars
 
-Backbone.js Grunt AngularJS  ionic   cordova  Meteor  React   Gulp   Webpack    Vue.js
+MVC, MVVM方面：Backbone.js Grunt AngularJS  ionic   cordova  Meteor  React   Gulp   Webpack    Vue.js
 
-Node.js  Koa    MongoDB   socket.io  
+Nodejs方面：Node.js express  Koa  
 
-SVG    HightCharts    D3.js     C3.js       
+数据可视化方面：SVG    HightCharts    D3.js     C3.js       
 
-QUnit   Mocha   Chai     Sinon.js     TestCafe    BackStopJS  
+测试方面：QUnit   Mocha   Chai     Sinon.js     TestCafe    BackStopJS  
 
 ## 项目经验
 ### WebGIS development based on OpenLayers

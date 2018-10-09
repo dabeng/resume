@@ -74,28 +74,42 @@ https://github.com/patternfly/patternfly-org
 https://patternfly-webcomponents.github.io/
 
 ### 文档贡献
-■	PnT DevOps Development Team Best Practice Handbook
+PnT DevOps Development Team Best Practice Handbook
+
 ■	JavaScript Best Practices
+
 ■	JavaScript framework comparison and recommendation
+
 ■	ET: Javascript and jQuery best practices
+
 ■	JavaScript Performance Optimization Best Practices
+
 ■	jQuery Performance Optimization Best Practices 
+
 ■	Javascript code migration from Prototype to jQuery
+
 ■	Front-end Javascript Unit Testing Good Practices
+
 ■	Writing Testable Front-end JavaScript Code Good Practices
+
 ■	Modular Javascript Unit Testing -- Combination RequireJS and QUnit
 
 ## 兴趣与爱好
-github repos
+### github repos
 分享的越多，交流的越多，JS程序员将来的开发过程也就越舒心。
 技术主题分享
+
 在红帽中国北京研发中心，我很荣幸担当为大家更新JS各类框架，库，最佳实践等等最新方向与趋势的角色。
 阅读技术博客
+
 目前的JS领域，百花齐放百家争鸣。但是我一直追随的风格是优雅的语法，高效的开发。汲取更多人的智慧，可以帮助我们去伪存真，去粗取精，而不是随声附和，被所谓的“主流平台”牵着鼻子走而丧失客观的辨别力。
 篮球
+
 组织单位各部门的硬汉打篮球，让他们都熟悉我，也顺便熟悉我推崇的JS — 让更简单的方案去解决更复杂的需求。
 钓鱼
+
 我喜欢钓鱼，也推荐其他程序员出去到户外大山大水间去钓鱼。抛开喧嚣，抛开不靠谱的头脑风暴，抛开既有的种种设想，重新来过，可能你之前困扰许久的问题会迎刃而解。
 陪伴家人
+
 之所以全身心投入JS研发这么久，一半是因为爱好；另一个是想通过踏实的劳动，让自己更加稳定厚重，腾出更多的时间陪家人。尤其作为女儿奴，我很骄傲 :)
 

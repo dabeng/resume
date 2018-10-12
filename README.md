@@ -18,7 +18,7 @@ MVC, MVVM方面：Backbone.js&ensp;Grunt&ensp;AngularJS&ensp;MEAN.js&ensp;ionic&
 
 Nodejs方面：Express  Koa  
 
-数据可视化方面：SVG&ensp;Raphaël&ensp;HightCharts&ensp;D3.js&ensp;C3.js       
+数据可视化方面：SVG&ensp;Raphaël&ensp;HightCharts&ensp;Chart.js&ensp;D3.js&ensp;C3.js     
 
 测试方面：QUnit&ensp;Mocha&ensp;Chai&ensp;Sinon.js&ensp;TestCafe&ensp;BackStopJS
 

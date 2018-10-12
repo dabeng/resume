@@ -14,13 +14,15 @@
 ## 知识结构
 基础工具方面：ES6  & ES7    jQuery     HTML5     CSS3   Bootstrap   handlebars
 
-MVC, MVVM方面：Backbone.js Grunt AngularJS  ionic   cordova  Meteor  React   Gulp   Webpack    Vue.js
+MVC, MVVM方面：Backbone.js Grunt AngularJS  MEAN.js ionic   cordova  Meteor  React      Vue.js
 
 Nodejs方面：Node.js express  Koa  
 
-数据可视化方面：SVG    HightCharts    D3.js     C3.js       
+数据可视化方面：SVG Raphaël    HightCharts    D3.js     C3.js       
 
-测试方面：QUnit   Mocha   Chai     Sinon.js     TestCafe    BackStopJS  
+测试方面：QUnit   Mocha   Chai     Sinon.js     TestCafe    BackStopJS
+
+bundle & build工具方面：Grunt Gulp webpack brunch
 
 ## 项目经验
 ### WebGIS development based on OpenLayers

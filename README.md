@@ -12,7 +12,7 @@
 邮箱 – xinguan413@163.com
 
 ## 知识结构
-基础工具方面：ES6  & ES7  &nbsp;  jQuery     HTML5     CSS3   Bootstrap   handlebars
+基础工具方面：ES6  & ES7  &emsp;  jQuery     HTML5     CSS3   Bootstrap   handlebars
 
 MVC, MVVM方面：Backbone.js Grunt AngularJS  MEAN.js ionic   cordova  Meteor  React      Vue.js
 

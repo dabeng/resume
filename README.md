@@ -18,11 +18,11 @@ MVC, MVVM方面：Backbone.js Grunt AngularJS  MEAN.js ionic   cordova  Meteor  
 
 Nodejs方面：Express  Koa  
 
-数据可视化方面：SVG Raphaël    HightCharts    D3.js     C3.js       
+数据可视化方面：SVG&ensp;Raphaël&ensp;HightCharts&ensp;D3.js&ensp;C3.js       
 
-测试方面：QUnit   Mocha   Chai     Sinon.js     TestCafe    BackStopJS
+测试方面：QUnit&ensp;Mocha&ensp;Chai&ensp;Sinon.js&ensp;TestCafe&ensp;BackStopJS
 
-bundle & build工具方面：Grunt Gulp webpack brunch
+bundle & build工具方面：Grunt&ensp;Gulp&ensp;webpack&ensp;brunch
 
 ## 项目经验
 ### WebGIS development based on OpenLayers

@@ -16,7 +16,7 @@
 
 MVC, MVVM方面：Backbone.js Grunt AngularJS  MEAN.js ionic   cordova  Meteor  React      Vue.js
 
-Nodejs方面：Node.js express  Koa  
+Nodejs方面：Express  Koa  
 
 数据可视化方面：SVG Raphaël    HightCharts    D3.js     C3.js       
 

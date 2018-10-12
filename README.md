@@ -14,7 +14,7 @@
 ## 知识结构
 基础工具方面：ES6&ES7&ensp;jQuery&ensp;HTML5&ensp;CSS3 &ensp;Bootstrap&ensp;handlebars
 
-MVC, MVVM方面：Backbone.js Grunt AngularJS  MEAN.js ionic   cordova  Meteor  React      Vue.js
+MVC, MVVM方面：Backbone.js&ensp;Grunt&ensp;AngularJS&ensp;MEAN.js&ensp;ionic&ensp;cordova&ensp;Meteor&ensp;React&ensp;Vue.js
 
 Nodejs方面：Express  Koa  
 

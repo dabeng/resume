@@ -3,7 +3,6 @@
 - Full name: Xuebin Dong
 - Gender: male
 - Date of birth: 1982.3.22
-- Phone: 15911099287
 - Email: zhexiany@gmail.com
 - Homepage: https://github.com/dabeng
 

@@ -25,12 +25,12 @@
 **iClient for JavaScript** (2008.3 - 2013.3)
 WebGIS development based on OpenLayers & iClient for JS
 
-**Cantas**(2013.3 - 2014.3)
+**[Cantas](https://github.com/onepiecejs/nodejs-cantas)**(2013.3 - 2014.3)
 - collection board – Backbone.js + socket.io + async + node.js + Mongoose
 - core modules development
 - framework & library selection
 
-**OrgChart**(2014.3 - 2014.9)
+**[OrgChart](https://codepen.io/collection/AWxGVb/)**(2014.3 - 2014.9)
 - organization management tool
 - jQuery UI + Django
 - framework & library selection
@@ -41,7 +41,7 @@ WebGIS development based on OpenLayers & iClient for JS
 - ES5 + JavaEE
 - heck the interaction between the wrapper java code and dom fragments inside iframe
 
-**TCMS**(2014.12 - 2015.6)
+**[TCMS](https://github.com/Nitrate/Nitrate)**(2014.12 - 2015.6)
 - test case management tool
 - jQuery + patternfly + Django
 - migration from prototypejs to jquery
@@ -72,7 +72,7 @@ WebGIS development based on OpenLayers & iClient for JS
 
 **Patternfly**(2016.12 - 2018.9)
 - UI library
-- core developer of patternfly-core, patterfly-webcomponents and patternfly.org
+- core developer of [patternfly-core](https://github.com/patternfly/patternfly), [patterfly-webcomponents](https://github.com/patternfly-webcomponents/patternfly-webcomponents) and [patternfly.org](https://patternfly.org/)
 
 **HIDP**(2018.9 - now)
 - Intelligent risk control system

@@ -1,11 +1,17 @@
-Resume – Xuebin Dong
-Personal information
+# Resume – Xuebin Dong
+## Personal information
 Full name:   Xuebin Dong
+
 Gender:     male
+
 Date of birth: 1982.3.22
+
 Phone:      15911099287
+
 Email:       zhexiany@gmail.com
+
 Homepage:   https://github.com/dabeng
+
 Education
 2001.9 – 2005.6 Hebei University of Science and Technology, information management and information system(bachelor)
 2005.9 – 2008.3 Hebei University of Science and Technology, computer application technology(master)

@@ -11,28 +11,28 @@
 - 2001.9 – 2005.6 Hebei University of Science and Technology, information management and information system(bachelor)
 - 2005.9 – 2008.3 Hebei University of Science and Technology, computer application technology(master)
 ## Skills
-Basic tools: ES6&ES7 jQuery HTML5 CSS3  Bootstrap handlebars
-Frameworks: Backbone.js Grunt AngularJS MEAN.js ionic cordova Meteor React Vue.js
-Nodejs: Express Koa
-Data visualization: SVG Raphaël HightCharts Chart.js D3.js C3.js
-Testing: QUnit Mocha Chai Sinon.js TestCafe BackStopJS
-Bundle & Build: Grunt Gulp webpack brunch
+- Basic tools: ES6&ES7 jQuery HTML5 CSS3  Bootstrap handlebars
+- Frameworks: Backbone.js Grunt AngularJS MEAN.js ionic cordova Meteor React Vue.js
+- Nodejs: Express Koa
+- Data visualization: SVG Raphaël HightCharts Chart.js D3.js C3.js
+- Testing: QUnit Mocha Chai Sinon.js TestCafe BackStopJS
+- Bundle & Build: Grunt Gulp webpack brunch
 ## Working Experience
-2008.3 – 2013.3 SuperMap Software Co., Ltd  WebGIS development engineer
-2013.3 - 2018.9 redhat software(beijing) Ltd.  Front-end development engineer
-2018.9 – now  Beijing HUAWEI Digital Technology Co., Ltd.  Senior engineer
+- 2008.3 – 2013.3 SuperMap Software Co., Ltd  WebGIS development engineer
+- 2013.3 - 2018.9 redhat software(beijing) Ltd.  Front-end development engineer
+- 2018.9 – now  Beijing HUAWEI Digital Technology Co., Ltd.  Senior engineer
 ## Project Experience
 **iClient for JavaScript** (2008.3 - 2013.3)
 WebGIS development based on OpenLayers & iClient for JS
 **Cantas**(2013.3 - 2014.3)
-collection board – Backbone.js + socket.io + async + node.js + Mongoose
-core modules development
-framework & library selection
+- collection board – Backbone.js + socket.io + async + node.js + Mongoose
+- core modules development
+- framework & library selection
 **OrgChart**(2014.3 - 2014.9)
-organization management tool
-jQuery UI + Django
-framework & library selection
-core modules development -- https://github.com/dabeng/OrgChart
+- organization management tool
+- jQuery UI + Django
+- framework & library selection
+- core modules development -- https://github.com/dabeng/OrgChart
 **Maitai**(2014.9 - 2014.12)
 process management tool
 ES5 + JavaEE

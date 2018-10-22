@@ -24,46 +24,56 @@
 ## Project Experience
 **iClient for JavaScript** (2008.3 - 2013.3)
 WebGIS development based on OpenLayers & iClient for JS
+
 **Cantas**(2013.3 - 2014.3)
 - collection board – Backbone.js + socket.io + async + node.js + Mongoose
 - core modules development
 - framework & library selection
+
 **OrgChart**(2014.3 - 2014.9)
 - organization management tool
 - jQuery UI + Django
 - framework & library selection
 - core modules development -- https://github.com/dabeng/OrgChart
+
 **Maitai**(2014.9 - 2014.12)
 - process management tool
 - ES5 + JavaEE
 - heck the interaction between the wrapper java code and dom fragments inside iframe
+
 **TCMS**(2014.12 - 2015.6)
 - test case management tool
 - jQuery + patternfly + Django
 - migration from prototypejs to jquery
 - introduction of jquery best practices
+
 **Errata**(2015.6 - 2015.10)
 - test case management tool
 - ES5 + Django
 - migration from prototypejs to jquery
+
 **PELC**(2015.10 - 2016.8)
 - package management tool
 - AngularJS 1.4 + Django
 - framework & library selection
 - core modules development
+
 **RPMDiff**(2016.6 - 2016.10)
 - package management tool
 - patternfly + Django
 - improvement the interaction of front-end section
 - introduction of jquery best practices
+
 **PDC**(2016.8 - 2016.12)
 - product release tool
 - React + Django
 - framework & library selection
 - core front-end modules development
+
 **Patternfly**(2016.12 - 2018.9)
 - UI library
 - core developer of patternfly-core, patterfly-webcomponents and patternfly.org
+
 **HIDP**(2018.9 - now)
 - Intelligent risk control system
 - upgrade and maintain the front-end part of hidp based on mainstream js libraries & frameworks

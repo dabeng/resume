@@ -19,7 +19,7 @@
 ## Working Experience
 - 2008.3 – 2013.3 SuperMap Software Co., Ltd  WebGIS development engineer
 - 2013.3 - 2018.9 redhat software(beijing) Ltd.  Front-end development engineer
-- 2018.9 – now  Beijing HUAWEI Digital Technology Co., Ltd.  Senior engineer
+- 2018.9 – now  Beijing Huawei Digital Technologies Co., Ltd.  Senior engineer
 ## Project Experience
 **iClient for JavaScript** (2008.3 - 2013.3)
 WebGIS development based on OpenLayers & iClient for JS

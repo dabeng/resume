@@ -75,5 +75,6 @@ WebGIS development based on OpenLayers & iClient for JS
 
 **HIDP**(2018.9 - now)
 - Intelligent risk control system
-- upgrade and maintain the front-end part of hidp based on mainstream js libraries & frameworks
+- upgrade and maintain the front-end part of hidp based on Vuejs
+- build up internal visio-like flow chart drawing tool
 

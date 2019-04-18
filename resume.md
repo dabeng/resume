@@ -77,5 +77,5 @@ WebGIS development based on OpenLayers & iClient for JS
 **Blockchain**(2018.11 - now)
 - block chain adapter, bill receivable factoring
 - Oracle Visual Builder Cloud Service - VBCS(Knockout.js + Require.js)
-- focus on VBCS frontend development
+- work on VBCS frontend development
 

@@ -10,6 +10,7 @@
 - 2001.9 – 2005.6 Hebei University of Science and Technology, information management and information system(bachelor)
 - 2005.9 – 2008.3 Hebei University of Science and Technology, computer application technology(master)
 ## Skills
+- Map: focus on map application development for 5 years and good at OpenLayers & SuperMap iClient JavaScript
 - Basic tools: ES6&ES7 jQuery HTML5 CSS3  Bootstrap handlebars
 - Frameworks: Backbone.js Grunt AngularJS MEAN.js ionic cordova Meteor React Vue.js
 - Nodejs: Express Koa
@@ -19,7 +20,7 @@
 ## Working Experience
 - 2008.3 – 2013.3 SuperMap Software Co.,Ltd  WebGIS development engineer
 - 2013.3 - 2018.9 Red Hat Software(Beijing) Co.,Ltd.  Front-end development engineer
-- 2018.9 – now  Beijing Huawei Digital Technologies Co., Ltd.  Senior engineer
+- 2018.11 – now  Oracle Software R&D Center (Beijing) Co., Ltd.  Senior Applications Developer
 ## Project Experience
 **iClient for JavaScript** (2008.3 - 2013.3)
 WebGIS development based on OpenLayers & iClient for JS
@@ -73,8 +74,8 @@ WebGIS development based on OpenLayers & iClient for JS
 - UI library
 - core developer of [patternfly-core](https://github.com/patternfly/patternfly), [patterfly-webcomponents](https://github.com/patternfly-webcomponents/patternfly-webcomponents) and [patternfly.org](https://patternfly.org/)
 
-**HIDP**(2018.9 - now)
-- Intelligent risk control system
-- upgrade and maintain the front-end part of hidp based on Vuejs
-- build up internal visio-like flow chart drawing tool
+**Blockchain**(2018.11 - now)
+- block chain adapter, bill receivable factoring
+- Oracle Visual Builder Cloud Service - VBCS(Knockout.js + Require.js)
+- focus on VBCS frontend development
 

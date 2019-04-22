@@ -79,3 +79,39 @@ WebGIS development based on OpenLayers & iClient for JS
 - Oracle Visual Builder Cloud Service - VBCS(Knockout.js + Require.js)
 - work on VBCS frontend development
 
+## Docs Contribution
+-	PnT DevOps Development Team Best Practice Handbook
+-	JavaScript Best Practices
+-	JavaScript framework comparison and recommendation
+-	ET: Javascript and jQuery best practices
+-	JavaScript Performance Optimization Best Practices
+-	jQuery Performance Optimization Best Practices 
+-	Javascript code migration from Prototype to jQuery
+-	Front-end Javascript Unit Testing Good Practices
+-	Writing Testable Front-end JavaScript Code Good Practices
+-	Modular Javascript Unit Testing -- Combination RequireJS and QUnit
+
+## Hobbies & Interest
+- github repos
+
+The more js skills are shared, the more easy js programmers' lives become.
+
+- Topic Share
+
+In Beijing Redhat, it's my pleasure and duty to update the colleagues's understanding of js frameworks, js libraries and js itself.
+
+- Reading tech blogs
+
+There are so many js masters on Internet, It would be extremely excited to read their technical articles cause doing so make you keep pace with the new development of the  js field.
+
+- Basketball
+
+Let other departments’ colleagues love me  and maybe this game provide me  more chances that js will play a bigger role.
+
+- Fishing
+
+Trust me. The most beautiful surroundings is the best  place to figure out the hardest issues or bugs. So waterside spot is a good choice. Moreover, fisherman and bug-fixer are two of a kind.
+
+- Accompany families
+
+Families is always be my source of happiness. I code for my families.

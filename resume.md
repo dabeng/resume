@@ -92,7 +92,7 @@ WebGIS development based on OpenLayers & iClient for JS
 -	Modular Javascript Unit Testing -- Combination RequireJS and QUnit
 
 ## Hobbies & Interest
-- github repos
+- Github Repos
 
 The more js skills are shared, the more easy js programmers' lives become.
 
@@ -100,9 +100,9 @@ The more js skills are shared, the more easy js programmers' lives become.
 
 In Beijing Redhat, it's my pleasure and duty to update the colleagues's understanding of js frameworks, js libraries and js itself.
 
-- Reading tech blogs
+- Medium
 
-There are so many js masters on Internet, It would be extremely excited to read their technical articles cause doing so make you keep pace with the new development of the  js field.
+There are so many js masters on [Medium](https://medium.com/), It would be extremely excited to read their technical articles cause doing so make you keep pace with the new development of the  js field.
 
 - Basketball
 

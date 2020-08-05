@@ -11,8 +11,8 @@
 - 2005.9 – 2008.3 Hebei University of Science and Technology, computer application technology(master)
 ## Skills
 - Map: focus on map application development for 5 years and good at OpenLayers & SuperMap iClient JavaScript
-- Basic tools: ES6&ES7 jQuery HTML5 CSS3  Bootstrap handlebars
-- Frameworks: Backbone.js Grunt AngularJS MEAN.js ionic cordova Meteor React Vue.js
+- Basic tools: ES6&ES7 jQuery HTML5 CSS3  Bootstrap handlebars TypeScript RxJS
+- Frameworks: Backbone.js Grunt AngularJS MEAN.js Meteor React Vue.js
 - Nodejs: Express Koa
 - Data visualization: SVG Raphaël HightCharts Chart.js D3.js C3.js
 - Testing: QUnit Mocha Chai Sinon.js TestCafe BackStopJS
@@ -20,7 +20,8 @@
 ## Working Experience
 - 2008.3 – 2013.3 SuperMap Software Co.,Ltd  WebGIS development engineer
 - 2013.3 - 2018.9 Red Hat Software(Beijing) Co.,Ltd.  Front-end development engineer
-- 2018.11 – now  Oracle Software R&D Center (Beijing) Co., Ltd.  Senior Applications Developer
+- 2018.11 – 2019.5  Oracle Software R&D Center (Beijing) Co., Ltd.  Senior Applications Developer
+- 2019.6 – now IBM China Investment Co., Ltd. Frontend Development Engineer
 ## Project Experience
 **iClient for JavaScript** (2008.3 - 2013.3)
 WebGIS development based on OpenLayers & iClient for JS
@@ -79,6 +80,12 @@ WebGIS development based on OpenLayers & iClient for JS
 - Oracle Visual Builder Cloud Service - [VBCS](https://cloud.oracle.com/visual-builder)(Knockout.js + Require.js + [Oracle JET](https://www.oracle.com/webfolder/technetwork/jet/index.html))
 - work on VBCS frontend development
 
+**IBM Z Danube**(2019.6 - now)
+- platform for configuring Tailored Fit Pricing solutions
+- Angular 8 + Java
+- frontend architecture design and implementation
+
+
 ## Docs Contribution
 -	PnT DevOps Development Team Best Practice Handbook
 -	JavaScript Best Practices
@@ -90,6 +97,9 @@ WebGIS development based on OpenLayers & iClient for JS
 -	Front-end Javascript Unit Testing Good Practices
 -	Writing Testable Front-end JavaScript Code Good Practices
 -	Modular Javascript Unit Testing -- Combination RequireJS and QUnit
+- Apply TDD to frontend development
+- How to promote js repo
+- React hooks best practices
 
 ## Hobbies & Interest
 - Github Repos

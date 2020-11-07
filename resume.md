@@ -1,27 +1,44 @@
 # Resume – Xuebin Dong
 ## Personal information
-- Full name: Xuebin Dong
-- Gender: male
-- Date of birth: 1982.3.22
-- Email: xinguan413@163.com
-- Homepage: https://github.com/dabeng
+Full name: Xuebin Dong
 
-## Education
-- 2001.9 – 2005.6 Hebei University of Science and Technology, information management and information system(bachelor)
-- 2005.9 – 2008.3 Hebei University of Science and Technology, computer application technology(master)
+Gender: male
+
+Date of birth: 1982.3.22
+
+Email: xinguan413@163.com
+
+Homepage: https://github.com/dabeng
+
+
 ## Skills
-- Map: focus on map application development for 5 years and good at OpenLayers & SuperMap iClient JavaScript
-- Basic tools: ES6&ES7 jQuery HTML5 CSS3  Bootstrap handlebars TypeScript RxJS
-- Frameworks: Backbone.js Grunt AngularJS MEAN.js Meteor React Vue.js
-- Nodejs: Express Koa
-- Data visualization: SVG Raphaël HightCharts Chart.js D3.js C3.js
-- Testing: QUnit Mocha Chai Sinon.js TestCafe BackStopJS
-- Bundle & Build: Grunt Gulp webpack brunch
+Map: focus on map application development for 5 years and good at OpenLayers & SuperMap iClient JavaScript
+
+Basic tools: ES6&ES7 jQuery HTML5 CSS3  Bootstrap handlebars TypeScript RxJS
+
+Frameworks: Backbone.js Grunt AngularJS MEAN.js Meteor React Vue.js
+
+Nodejs: Express Koa
+
+Data visualization: SVG Raphaël HightCharts Chart.js D3.js C3.js
+
+Testing: QUnit Mocha Chai Sinon.js TestCafe BackStopJS
+
+Bundle & Build: Grunt Gulp webpack brunch
+## Education
+2001.9 – 2005.6 Hebei University of Science and Technology, information management and information system(bachelor)
+
+2005.9 – 2008.3 Hebei University of Science and Technology, computer application technology(master)
+
 ## Working Experience
-- 2008.3 – 2013.3 SuperMap Software Co.,Ltd  WebGIS development engineer
-- 2013.3 - 2018.9 Red Hat Software(Beijing) Co.,Ltd.  Front-end development engineer
-- 2018.11 – 2019.5  Oracle Software R&D Center (Beijing) Co., Ltd.  Senior Applications Developer
-- 2019.6 – now IBM China Investment Co., Ltd. Frontend Development Engineer
+2008.3 – 2013.3 SuperMap Software Co.,Ltd  WebGIS development engineer
+
+2013.3 - 2018.9 Red Hat Software(Beijing) Co.,Ltd.  Front-end development engineer
+
+2018.11 – 2019.5  Oracle Software R&D Center (Beijing) Co., Ltd.  Senior Applications Developer
+
+2019.6 – now IBM China Investment Co., Ltd. Senior Software Development Engineer
+
 ## Project Experience
 **iClient for JavaScript** (2008.3 - 2013.3)
 WebGIS development based on OpenLayers & iClient for JS

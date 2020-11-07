@@ -92,7 +92,7 @@ WebGIS development based on OpenLayers & iClient for JS
 - UI library
 - core developer of [patternfly-core](https://github.com/patternfly/patternfly), [patterfly-webcomponents](https://github.com/patternfly-webcomponents/patternfly-webcomponents) and [patternfly.org](https://patternfly.org/)
 
-**Blockchain**(2018.11 - now)
+**Blockchain**(2018.11 - 2019.5)
 - block chain adapter, bill receivable factoring
 - Oracle Visual Builder Cloud Service - [VBCS](https://cloud.oracle.com/visual-builder)(Knockout.js + Require.js + [Oracle JET](https://www.oracle.com/webfolder/technetwork/jet/index.html))
 - work on VBCS frontend development

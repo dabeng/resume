@@ -2,23 +2,22 @@
 ## Personal information
 Full name: Xuebin Dong
 
+Homepage: https://github.com/dabeng
+
 Gender: male
 
 Date of birth: 1982.3.22
 
 Email: xinguan413@163.com
 
-Homepage: https://github.com/dabeng
-
-
 ## Skills
 Map: focus on map application development for 5 years and good at OpenLayers & SuperMap iClient JavaScript
 
 Basic tools: ES6&ES7 jQuery HTML5 CSS3  Bootstrap handlebars TypeScript RxJS
 
-Frameworks: Backbone.js Grunt AngularJS MEAN.js Meteor React Vue.js
+Frameworks: Backbone.js Grunt AngularJS MEAN.js Meteor React Vue.js Svelte
 
-Nodejs: Express Koa
+Nodejs: Express
 
 Data visualization: SVG Raphaël HightCharts Chart.js D3.js C3.js
 
@@ -37,7 +36,9 @@ Bundle & Build: Grunt Gulp webpack brunch
 
 2018.11 – 2019.5  Oracle Software R&D Center (Beijing) Co., Ltd.  Senior Applications Developer
 
-2019.6 – now IBM China Investment Co., Ltd. Senior Software Development Engineer
+2019.6 – 2021.6 IBM China Investment Co., Ltd. Senior Software Development Engineer
+
+2021.7 – now Kyndryl(China) Information Technology Co.,Ltd.-Beijing Branch Senior Software Developer
 
 ## Project Experience
 **iClient for JavaScript** (2008.3 - 2013.3)

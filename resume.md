@@ -98,9 +98,14 @@ Bundle & Build: Grunt Gulp webpack brunch
 - Oracle Visual Builder Cloud Service - [VBCS](https://cloud.oracle.com/visual-builder)(Knockout.js + Require.js + [Oracle JET](https://www.oracle.com/webfolder/technetwork/jet/index.html))
 - work on VBCS frontend development
 
-**IBM Z Danube**(2019.6 - now)
+**IBM Z Danube**(2019.6 - 2021.6)
 - platform for configuring Tailored Fit Pricing solutions
 - Angular 8 + Java
+- frontend architecture design and implementation
+
+**Kyndryl Engagement Support**(2021.7 - now)
+- IBM sellers can document and submit request support, documents for revision, and receive help from Q2C and bid managers
+- Backbone.js + AngularJS + React + Java
 - frontend architecture design and implementation
 
 
@@ -126,7 +131,7 @@ The more js skills are shared, the more easy js programmers' lives become.
 
 - Topic Share
 
-In Beijing Redhat, it's my pleasure and duty to update the colleagues's understanding of js frameworks, js libraries and js itself.
+It's my pleasure and duty to update the colleagues's understanding of js frameworks, js libraries and js itself.
 
 - Medium
 

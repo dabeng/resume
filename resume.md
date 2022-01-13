@@ -1,4 +1,6 @@
 # Resume – Xuebin Dong
+![照片](./avatar.jpg)
+
 ## Personal information
 Full name: Xuebin Dong
 

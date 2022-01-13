@@ -89,7 +89,7 @@ Bundle & Build: Grunt Gulp webpack brunch
 - framework & library selection
 - core front-end modules development
 
-**Patternfly**(2016.12 - 2018.9)
+**[Patternfly](https://www.patternfly.org)**(2016.12 - 2018.9)
 - UI library
 - core developer of [patternfly-core](https://github.com/patternfly/patternfly), [patterfly-webcomponents](https://github.com/patternfly-webcomponents/patternfly-webcomponents) and [patternfly.org](https://patternfly.org/)
 

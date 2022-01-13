@@ -106,7 +106,7 @@ Bundle & Build: Grunt Gulp webpack brunch
 **Kyndryl Engagement Support**(2021.7 - now)
 - IBM sellers can document and submit request support, documents for revision, and receive help from Q2C and bid managers
 - Backbone.js + AngularJS + React + Java
-- frontend architecture design and implementation
+- maintain frontend code based on traditional js libs/frameworks(Backbone.js, Marionette.js, Kendo UI), refactor UI code accroding to frontend backend separation, append testing code following TDD
 
 
 ## Docs Contribution

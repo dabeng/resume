@@ -12,6 +12,8 @@ Date of birth: 1982.3.22
 
 Email: xinguan413@163.com
 
+Phone: 15911099287
+
 ## Skills
 Map: focus on map application development for 5 years and good at OpenLayers & SuperMap iClient JavaScript
 

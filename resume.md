@@ -34,15 +34,15 @@ Bundle & Build: Grunt Gulp webpack brunch
 2005.9 – 2008.3 Hebei University of Science and Technology, computer application technology(master)
 
 ## Working Experience
-2008.3 – 2013.3 SuperMap Software Co.,Ltd  WebGIS development engineer
+2008.3 – 2013.3 SuperMap Software Co.,Ltd    WebGIS development engineer
 
 2013.3 - 2018.9 Red Hat Software(Beijing) Co.,Ltd.  Front-end development engineer
 
 2018.11 – 2019.5  Oracle Software R&D Center (Beijing) Co., Ltd.  Senior Applications Developer
 
-2019.6 – 2021.6 IBM China Investment Co., Ltd. Senior Software Development Engineer
+2019.6 – 2021.6 IBM China Investment Co., Ltd.    Senior Software Development Engineer
 
-2021.7 – now Kyndryl(China) Information Technology Co.,Ltd.-Beijing Branch Senior Software Developer
+2021.7 – now Kyndryl(China) Information Technology Co.,Ltd.-Beijing Branch    Senior Lead, Software Engineering - Development
 
 ## Project Experience
 **iClient for JavaScript** (2008.3 - 2013.3)
@@ -110,7 +110,7 @@ Bundle & Build: Grunt Gulp webpack brunch
 **Kyndryl Engagement Support**(2021.7 - now)
 - IBM sellers can document and submit request support, documents for revision, and receive help from Q2C and bid managers
 - Backbone.js + AngularJS + React + Java
-- maintain frontend code based on traditional js libs/frameworks(Backbone.js, Marionette.js, Kendo UI), refactor UI code accroding to frontend backend separation, append testing code following TDD
+- maintain frontend code based on traditional js libs/frameworks(Backbone.js, Marionette.js, Kendo UI), refactor UI code accroding to frontend backend separation, append testing code following TDD; build up the subsequent KES subsites’ skeleton with React ecosystem
 
 
 ## Docs Contribution

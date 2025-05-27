@@ -49,7 +49,7 @@ Bundle & Build: Grunt Gulp webpack brunch
 - WebGIS development based on OpenLayers & iClient for JS
 
 **[Cantas](https://github.com/onepiecejs/nodejs-cantas)**(2013.3 - 2014.3)
-- collection board – Backbone.js + socket.io + async + node.js + Mongoose
+- realtime collaborative board – Backbone.js + socket.io + async + node.js + Mongoose
 - core modules development
 - framework & library selection
 

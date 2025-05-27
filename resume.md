@@ -51,7 +51,7 @@ Bundle & Build: Grunt Gulp webpack brunch
 **[Cantas](https://github.com/onepiecejs/nodejs-cantas)**(2013.3 - 2014.3)
 - realtime collaborative board – Backbone.js + socket.io + async + node.js + Mongoose
 - core modules development
-- framework & library selection
+- technology stack selection
 
 **[OrgChart](https://codepen.io/collection/AWxGVb/)**(2014.3 - 2014.9)
 - organization management tool

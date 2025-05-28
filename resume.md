@@ -101,7 +101,7 @@ Bundle & Build: Grunt Gulp webpack brunch
 **IBM Z Danube**(2019.6 - 2021.6)
 - platform for configuring Tailored Fit Pricing solutions
 - Angular 8 + Java
-- frontend architecture design and implementation
+- frontend architecture design and core modules development; creating the derivative version of [carbon components-angular](https://stackblitz.com/edit/carbon-components-angular-demo)
 
 **Kyndryl Engagement Support**(2021.7 - 2024.12)
 - IBM sellers can document and submit request support, documents for revision, and receive help from Q2C and bid managers

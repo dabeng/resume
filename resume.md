@@ -43,8 +43,6 @@ Bundle & Build: Grunt Gulp webpack brunch
 2021.7 – 2024.12 Kyndryl(China) Information Technology Co.,Ltd.-Beijing Branch    Senior Lead, Software Engineering - Development
 
 ## Project Experience
-**iClient for JavaScript** (2008.3 - 2013.3)
-- WebGIS development based on OpenLayers & iClient for JS
 
 **[Cantas](https://github.com/onepiecejs/nodejs-cantas)**(2013.3 - 2014.3)
 - realtime collaborative board – Backbone.js + socket.io + async + node.js + Mongoose

@@ -15,17 +15,16 @@ Email: xinguan413@163.com
 Phone: 15911099287
 
 ## Skills
-Map: focus on map application development for 5 years and good at OpenLayers & SuperMap iClient JavaScript
 
 Basic tools: ES6&ES7 jQuery HTML5 CSS3  Bootstrap handlebars TypeScript RxJS
 
-Frameworks: Backbone.js Grunt AngularJS MEAN.js Meteor React Vue.js Svelte
+Frameworks: Backbone.js Grunt AngularJS MEAN.js Meteor React Vue.js Svelte  Zustand  Tankstack Query
 
 Nodejs: Express
 
-Data visualization: SVG Raphaël HightCharts Chart.js D3.js C3.js
+Data visualization: SVG  Raphaël  HightCharts   Chart.js   D3.js   C3.js
 
-Testing: QUnit Mocha Chai Sinon.js TestCafe BackStopJS
+Testing: QUnit   Mocha   Chai  Sinon.js  TestCafe   BackStopJS
 
 Bundle & Build: Grunt Gulp webpack brunch
 ## Education

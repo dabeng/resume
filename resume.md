@@ -33,7 +33,6 @@ Bundle & Build: Grunt Gulp webpack brunch
 2005.9 – 2008.3 Hebei University of Science and Technology, computer application technology(master)
 
 ## Working Experience
-2008.3 – 2013.3 SuperMap Software Co.,Ltd    WebGIS development engineer
 
 2013.3 - 2018.9 Red Hat Software(Beijing) Co.,Ltd.  Front-end development engineer
 

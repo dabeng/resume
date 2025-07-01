@@ -145,6 +145,6 @@ Let other departments’ colleagues love me  and maybe this game provide me  mor
 
 Trust me. The most beautiful surroundings is the best  place to figure out the hardest issues or bugs. So waterside spot is a good choice. Moreover, fisherman and bug-fixer are two of a kind.
 
-- Accompany families
+- Keep families company
 
 Families is always my source of happiness. I code for my families.

@@ -40,7 +40,7 @@ Bundle & Build: Grunt Gulp webpack brunch
 
 2019.6 – 2021.6 IBM China Investment Co., Ltd.    Senior Software Development Engineer
 
-2021.7 – 2024.12 Kyndryl(China) Information Technology Co.,Ltd.-Beijing Branch    Senior Lead, Software Engineering - Development
+2021.9 – 2024.12 Kyndryl(China) Information Technology Co.,Ltd.-Beijing Branch    Senior Lead, Software Engineering - Development
 
 ## Project Experience
 

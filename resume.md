@@ -38,7 +38,7 @@ Bundle & Build: Grunt Gulp webpack brunch
 
 2018.11 – 2019.5  Oracle Software R&D Center (Beijing) Co., Ltd.  Senior Applications Developer
 
-2019.6 – 2021.6 IBM China Investment Co., Ltd.    Frontend Development Engineer
+2019.6 – 2021.8 IBM China Investment Co., Ltd.    Frontend Development Engineer
 
 2021.9 – 2024.12 Kyndryl(China) Information Technology Co.,Ltd.-Beijing Branch    Senior Lead, Software Engineering - Development
 
